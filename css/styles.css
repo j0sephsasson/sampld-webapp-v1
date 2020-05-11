@@ -1,0 +1,117 @@
+.container-fluid{
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.logo-pic{
+    margin-left: 130px;
+}
+
+/* NAVBAR */
+
+#nav-bar-section{
+    background-color: lightskyblue;
+}
+.navbar-nav{
+    margin-left: auto;
+    margin-right: 130px;
+    font-size: 1.3rem;
+}
+.nav-link{
+   margin-left: 1.5rem;
+   margin-right: 1.5rem;
+}
+
+/* FIRST SECTION */
+
+#first-section{
+    background-color: lightskyblue;
+    text-align: center;
+    padding-bottom: 5%;
+    line-height: 2;
+}
+
+.first-icon{
+    margin-bottom: 50px;
+}
+
+.more-titles{
+    margin-bottom: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+
+.intro-part{
+    text-align: center;
+}
+.first-title{
+    font-size: 5rem;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.mini-title{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    padding-bottom: 5%;
+}
+
+.second-mini-title{
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 5%;
+    line-height: 1.5;
+}
+
+.number-two{
+    margin-top: 50px;
+    padding: 5% 10%;
+}
+
+.number-one{
+    padding: 3% 6%;
+}
+
+.earth-pic{
+    border-radius: 100%;
+    width: 15%;
+    margin-bottom: 50px;
+}
+
+
+/* SECOND SECTION */
+
+.second-more-titles{
+    margin-bottom: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+}
+#second-section{
+    text-align: center;
+    padding: 3% 15%;
+}
+.earth-pic{
+    padding-bottom: 3%;
+    width: 15rem;
+}
+.second-more-titles{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+}
+.third-mini-title{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5; 
+}
+.carousel-indicators li {
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    margin-top: 5rem;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-indent: 0;
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    background-color: #0000ff;
+    box-shadow: inset 1px 1px 1px 1px rgba(0,0,0,0.5);    
+}
